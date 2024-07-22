@@ -1,4 +1,4 @@
-# Hi! I’m Sharon
+_Hi! I’m Sharon_
 
 ## About Me
 I am a passionate and dedicated software engineer with a particular interest in backend engineering and technologies. I am currently furthering my expertise by taking a specialized course in backend development from ALX Africa.
