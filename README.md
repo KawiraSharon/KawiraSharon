@@ -22,7 +22,7 @@ I am a passionate and dedicated software engineer with a particular interest in 
 - Technologies: C
 - Repository: https://github.com/kawirasharon/printf
 ### Stack Implementation
-- Description: Implemeted a custom stack data structure with functions that efficiently manipulate the data structure.
+- Description: Implemented a custom stack data structure with functions that efficiently manipulate the data structure.
 - Technologies: C
 - Repository: https://github.com/kawirasharon/monty
 <!--
