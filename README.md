@@ -25,11 +25,12 @@ I am a passionate and dedicated software engineer with a particular interest in 
 - Description: Implemeted a custom stack data structure with functions that efficiently manipulate the data structure.
 - Technologies: C
 - Repository: https://github.com/kawirasharon/monty
+<!--
 ### [Project Name]
 - Description: [description of project]
 - Technologies: [Technologies used]
 - Repository: GitHub Link
-
+-->
 <!--
 ## Education
 Bachelor of Business Information Technology, Mount Kenya University, 2021
