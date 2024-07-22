@@ -46,13 +46,13 @@ Bachelor of Business Information Technology, Mount Kenya University, 2021
 
 ## Currently Learning
 - From ALX’s SE program I’m currently learning:
--- Advanced backend development techniques
--- Cloud computing and deployment with AWS
--- Designing beautiful and responsive web interfaces with HTML/CSS.
--- Adding interactivity and dynamic behavior to websites using Javascript.
--- Managing and querying relational databases with SQL.
--- Server-side scripting, web development, and data analysis using python.
--- ES6
+  - Advanced backend development techniques
+  - Cloud computing and deployment with AWS
+  - Designing beautiful and responsive web interfaces with HTML/CSS.
+  - Adding interactivity and dynamic behavior to websites using Javascript.
+  - Managing and querying relational databases with SQL.
+  - Server-side scripting, web development, and data analysis using python.
+  - ES6
 
 ## Contact Me
 - <a href="mailto:sharonkawira389@gmail.com">Email Me</a>
