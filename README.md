@@ -56,5 +56,4 @@ Bachelor of Business Information Technology, Mount Kenya University, 2021
   - ES6
 
 ## Contact Me
-- <a href="mailto:sharonkawira389@gmail.com">Email Me</a>
-- <a href="twitter.com/sharonkawira10">Twitter</a>
+- <a href="mailto:sharonkawira389@gmail.com">Email</a>
