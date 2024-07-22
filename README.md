@@ -6,7 +6,7 @@ I am a passionate and dedicated software engineer who graduated with a Bachelorâ
 ## Languages and Tools
 
 | C | Python | Javascript | HTML | CSS | SQL |
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|
 |	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" height="55"/> |
 
 ## Skills
