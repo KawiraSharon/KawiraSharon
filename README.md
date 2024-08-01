@@ -1,9 +1,9 @@
 _<h3>Hi! I’m Sharon</h3>_
 
 ## About Me
-I am a passionate and dedicated fullstack software engineer with an interest in backend engineering. I am extremely passionate about maintaining, building and working with the server side of web applications.
+I am a passionate fullstack software engineer with a particular interest in backend engineering. I love to work with databases, server-side scripting languages, APIs, and server architecture to ensure seamless communication between front-end and back-end systems. I also enjoy identifying and resolving problems as they arise during the development process.
 
-## Languages and Tools
+## Languages and Tools I use
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
