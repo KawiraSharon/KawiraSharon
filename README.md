@@ -33,7 +33,7 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
 </div>
 
 ## Reach out
-<p align="justify-left">
+<p align="left">
   <a href="mailto:sharonkawira389@gmail.com">
     <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
@@ -45,42 +45,24 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
 - Web Development: Experienced with SQL, Django, Flask, and RESTful APIs.
 - Web Servers: Skilled in configuring and managing Apache and Nginx servers
 -->
+<details id="5">
+  <summary><h2>Projects and contributions</h2></summary>
+  <ol>
+    <li><a href="https://github.com/kawirasharon/printf">Printf</a> - Implemented a custom version of the C printf function.</li>
+	  <li><a href="https://github.com/kawirasharon/monty">Stack Implementation</a> - Implemented a custom stack data structure with functions that efficiently manipulate the data structure.</li>
+    <li><a href="https://github.com/kawirasharon/simple_shell">Simple Shell</a> - A simple and interactive UNIX-like command line interpreter.</li>
+  </ol>
+</details>
 
-## Projects
-### Custom Printf Implementation
-- Description: Implemented a custom version of the C printf function.
-- Technologies: C
-- Repository: https://github.com/kawirasharon/printf
-### Stack Implementation
-- Description: Implemented a custom stack data structure with functions that efficiently manipulate the data structure.
-- Technologies: C
-- Repository: https://github.com/kawirasharon/monty
-<!--
-### [Project Name]
-- Description: [description of project]
-- Technologies: [Technologies used]
-- Repository: GitHub Link
--->
-<!--
-## Education
-Bachelor of Business Information Technology, Mount Kenya University, 2021
-## Experience
-### [Internship/Job Title]
-- Company Name: [Company Name]
-- Duration: [Start Date] - [End Date]
-- Responsibilities:
-. Developed and maintained backend services using [Technologies].
-. Collaborated with frontend developers to integrate APIs.
-. Participated in code reviews and contributed to improving code quality.
--->
+<details id="6">
+  ## Currently Learning
+    - From ALX’s SE program I’m currently learning:
+      - Advanced backend development techniques
+      - Cloud computing and deployment with AWS
+      - Designing beautiful and responsive web interfaces with HTML/CSS.
+      - Adding interactivity and dynamic behavior to websites using Javascript.
+      - Managing and querying relational databases with SQL.
+      - Server-side scripting, web development, and data analysis using python.
+      - ES6
 
-## Currently Learning
-- From ALX’s SE program I’m currently learning:
-  - Advanced backend development techniques
-  - Cloud computing and deployment with AWS
-  - Designing beautiful and responsive web interfaces with HTML/CSS.
-  - Adding interactivity and dynamic behavior to websites using Javascript.
-  - Managing and querying relational databases with SQL.
-  - Server-side scripting, web development, and data analysis using python.
-  - ES6
-  
+</details>
