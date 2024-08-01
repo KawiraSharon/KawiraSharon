@@ -30,7 +30,7 @@ I am a passionate fullstack software engineer with a particular interest in back
 - Web Development: Experienced with SQL, Django, Flask, and RESTful APIs.
 - Web Servers: Skilled in configuring and managing Apache and Nginx servers
 -->
-<details id="5">
+<details id="5" open>
   <summary><h2>Projects and contributions</h2></summary>
   <ol>
 	<li><a href="https://github.com/kawirasharon/printf">Printf</a> - Implemented a custom version of the C printf function.</li>
@@ -39,17 +39,17 @@ I am a passionate fullstack software engineer with a particular interest in back
   </ol>
 </details>
 
-<details id="6">
+<details id="6" open>
 	<summary><h2>Currently Learning</h2></summary>
+	<h3>ALX SE bootcamp I’m currently learning:</h3>
 	<ul>
-    - ALX SE bootcamp I’m currently learning:
-      - Advanced backend development techniques
-      - Cloud computing and deployment with AWS
-      - Designing beautiful and responsive web interfaces with HTML/CSS.
-      - Adding interactivity and dynamic behavior to websites using Javascript.
-      - Managing and querying relational databases with SQL.
-      - Server-side scripting, web development, and data analysis using python.
-      - ES6
+		<li>Advanced backend development techniques</li>
+		<li>Cloud computing and deployment with AWS</li>
+		<li>Designing beautiful and responsive web interfaces with HTML/CSS.</li>
+		<li>Adding interactivity and dynamic behavior to websites using Javascript.</li>
+		<li>Managing and querying relational databases with SQL.</li>
+		<li>Server-side scripting, web development, and data analysis using python.</li>
+		<li>ES6</li>
 	</ul>
 
 </details>
