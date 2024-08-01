@@ -84,7 +84,7 @@ Bachelor of Business Information Technology, Mount Kenya University, 2021
 
 ## Reach out
 
-<p align="center">
+<p align="left">
 
   <a href="mailto:sharonkawira389@gmail.com">
     <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
