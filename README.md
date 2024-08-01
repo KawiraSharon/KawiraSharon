@@ -31,6 +31,13 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 
+## Reach out
+<p align="center">
+  <a href="mailto:sharonkawira389@gmail.com">
+    <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+</p>
+
 <!--
 ## Skills
 
@@ -75,13 +82,4 @@ Bachelor of Business Information Technology, Mount Kenya University, 2021
   - Managing and querying relational databases with SQL.
   - Server-side scripting, web development, and data analysis using python.
   - ES6
-
-## Reach out
-
-<p align="center">
-
-  <a href="mailto:sharonkawira389@gmail.com">
-    <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>&ensp;
-
-</p>
+  
