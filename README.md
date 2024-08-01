@@ -24,13 +24,6 @@ I am a passionate fullstack software engineer with a particular interest in back
   
 </div>
 
-## Reach out
-<p align="left">
-  <a href="mailto:sharonkawira389@gmail.com">
-    <img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-</p>
-
 <!--
 ## Skills
 
@@ -60,3 +53,12 @@ I am a passionate fullstack software engineer with a particular interest in back
 	</ul>
 
 </details>
+
+
+## Reach out
+<p align="left">
+  <a href="mailto:sharonkawira389@gmail.com">
+    <img width="40px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+</p>
+
