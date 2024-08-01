@@ -48,15 +48,16 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
 <details id="5">
   <summary><h2>Projects and contributions</h2></summary>
   <ol>
-    <li><a href="https://github.com/kawirasharon/printf">Printf</a> - Implemented a custom version of the C printf function.</li>
-	  <li><a href="https://github.com/kawirasharon/monty">Stack Implementation</a> - Implemented a custom stack data structure with functions that efficiently manipulate the data structure.</li>
-    <li><a href="https://github.com/kawirasharon/simple_shell">Simple Shell</a> - A simple and interactive UNIX-like command line interpreter.</li>
+	<li><a href="https://github.com/kawirasharon/printf">Printf</a> - Implemented a custom version of the C printf function.</li>
+	<li><a href="https://github.com/kawirasharon/monty">Stack Implementation</a> - Implemented a custom stack data structure with functions that efficiently manipulate the data structure.</li>
+	<li><a href="https://github.com/kawirasharon/simple_shell">Simple Shell</a> - A simple and interactive UNIX-like command line interpreter.</li>
   </ol>
 </details>
 
 <details id="6">
-  ## Currently Learning
-    - From ALX’s SE program I’m currently learning:
+	<summary><h2>Currently Learning</h2></summary>
+	<ul>
+    - ALX SE bootcamp I’m currently learning:
       - Advanced backend development techniques
       - Cloud computing and deployment with AWS
       - Designing beautiful and responsive web interfaces with HTML/CSS.
@@ -64,5 +65,6 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
       - Managing and querying relational databases with SQL.
       - Server-side scripting, web development, and data analysis using python.
       - ES6
+	</ul>
 
 </details>
