@@ -17,7 +17,6 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
   <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
@@ -28,7 +27,7 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
   <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>&nbsp;
   
 </div>
