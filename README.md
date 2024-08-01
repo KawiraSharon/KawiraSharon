@@ -41,16 +41,16 @@ I am a passionate fullstack software engineer with a particular interest in back
 
 <details id="6" open>
 	<summary><h2>Currently Learning</h2></summary>
-	<h3>ALX SE bootcamp I’m currently learning:</h3>
-	<ul>
-		<li>Advanced backend development techniques</li>
-		<li>Cloud computing and deployment with AWS</li>
-		<li>Designing beautiful and responsive web interfaces with HTML/CSS.</li>
-		<li>Adding interactivity and dynamic behavior to websites using Javascript.</li>
-		<li>Managing and querying relational databases with SQL.</li>
-		<li>Server-side scripting, web development, and data analysis using python.</li>
-		<li>ES6</li>
-	</ul>
+		<h3>ALX SE bootcamp I’m currently learning:</h3>
+		<ul>
+			<li>Advanced backend development techniques</li>
+			<li>Cloud computing and deployment with AWS</li>
+			<li>Designing beautiful and responsive web interfaces with HTML/CSS.</li>
+			<li>Adding interactivity and dynamic behavior to websites using Javascript.</li>
+			<li>Managing and querying relational databases with SQL.</li>
+			<li>Server-side scripting, web development, and data analysis using python.</li>
+			<li>ES6</li>
+		</ul>
 
 </details>
 
