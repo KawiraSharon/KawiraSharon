@@ -41,7 +41,7 @@ I am a passionate fullstack software engineer with a particular interest in back
 
 <details id="6" open>
 	<summary><h2>Currently Learning</h2></summary>
-		<h3>ALX SE bootcamp I’m currently learning:</h3>
+		<h3>I'm enrolled in ALX SE program where I’m learning:</h3>
 		<ul>
 			<li>Advanced backend development techniques</li>
 			<li>Cloud computing and deployment with AWS</li>
