@@ -33,7 +33,7 @@ I am a passionate and dedicated fullstack software engineer with an interest in 
 </div>
 
 ## Reach out
-<p align="left">
+<p align="justify-left">
   <a href="mailto:sharonkawira389@gmail.com">
     <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
