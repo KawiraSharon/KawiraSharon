@@ -1,7 +1,7 @@
 _<h3>Hi! I’m Sharon</h3>_
 
 ## About Me
-I am a passionate and dedicated software engineer with a particular interest in backend engineering and technologies. I am passionate about 
+I am a passionate and dedicated fullstack software engineer with an interest in backend engineering. I am extremely passionate about maintaining, building and working with the server side of web applications.
 
 ## Languages and Tools
 
@@ -82,5 +82,12 @@ Bachelor of Business Information Technology, Mount Kenya University, 2021
   - Server-side scripting, web development, and data analysis using python.
   - ES6
 
-## Contact Me
-- <a href="mailto:sharonkawira389@gmail.com">Email</a>
+## Reach out
+
+<p align="center">
+
+  <a href="mailto:sharonkawira389@gmail.com">
+    <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>&ensp;
+
+</p>
