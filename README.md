@@ -27,7 +27,6 @@ I am a passionate and dedicated software engineer with a particular interest in 
   <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
