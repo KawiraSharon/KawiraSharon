@@ -4,6 +4,7 @@ _<h3>Hi! I’m Sharon</h3>_
 <p>
 I am a passionate fullstack software engineer with a particular interest in backend engineering. I love to work with databases, server-side scripting languages, APIs, and server architecture to ensure seamless communication between front-end and back-end systems.
 I also enjoy identifying and resolving problems as they arise during the development process.
+I am currently pursuing my Master's degree in Applied Computer Science specializing in Software Engineering at Grand Valley State University.
 </p>
 
 <h2>Languages and Tools I use</h2>
@@ -42,21 +43,12 @@ I also enjoy identifying and resolving problems as they arise during the develop
   </ol>
 </details>
 
+<!--
 <details id="6" open>
 	<summary><h2>Currently Learning</h2></summary>
-		<h3>I'm enrolled in ALX SE program where I’m learning:</h3>
-		<ul>
-			<li>Advanced backend development techniques</li>
-			<li>Cloud computing and deployment with AWS</li>
-			<li>Designing beautiful and responsive web interfaces with HTML/CSS.</li>
-			<li>Adding interactivity and dynamic behavior to websites using Javascript.</li>
-			<li>Managing and querying relational databases with SQL.</li>
-			<li>Server-side scripting, web development, and data analysis using python.</li>
-			<li>ES6</li>
-		</ul>
-
+		
 </details>
-
+-->
 
 ## Reach out
 <p align="left">
